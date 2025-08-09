@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This **Proof of Concept (POC)** analyzes customer churn patterns in the telecom sector using a **Kaggle dataset** of 7,043 records and 21 attributes. The project leverages **Python (NumPy, Pandas, Matplotlib, Seaborn)** in **Google Colab** to identify high-risk customer segments, visualize trends, and suggest data-driven retention strategies.
+**Link to Google Colab:** https://colab.research.google.com/drive/1gdukmmj_2doplL1P9texm3nYQ_0HcUyD?usp=sharing
 
 ## 🗂 Dataset Details
 - **Source:** [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
